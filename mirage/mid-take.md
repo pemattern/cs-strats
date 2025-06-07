@@ -1,5 +1,5 @@
 ### Overview
-2-3 Players take mid by denying vision with smokes/flashes. Other players lurk around A and B to get info. A or B take is decided in the round.A
+3 Players take mid by denying vision with smokes/flashes. Other players lurk around A and B to get info. A or B take is decided in the round.
 
 ### Players
 - Player A - A Lurker - ?
