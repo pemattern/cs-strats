@@ -44,4 +44,4 @@
 - Player B [smokes kitchen window](https://csnades.gg/mirage/smokes/market-window-from-back-alley)
 - Player C [mollies ladder room](https://csnades.gg/mirage/molotovs/top-ladder-from-under-chair)
 - Player D [flashes short](https://csnades.gg/mirage/flashbangs/b-short-from-catwalk)
-- Player E re-smokes connector from top-mid (missing lineup) and proceeds up cat and awaits short flash and ladder molly
+- Player E [re-smokes connector from top-mid](https://www.reddit.com/r/cs2/s/ti6NL522qB) and proceeds up cat and awaits short flash and ladder molly
