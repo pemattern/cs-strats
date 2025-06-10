@@ -2,11 +2,11 @@
 3 Players take mid by denying vision with smokes/flashes. Other players lurk around A and B to get info. A or B take is decided in the round.
 
 ### Players
-- Player A - A Lurker - ?
-- Player B - B Lurker - ?
-- Player C - Mid - ?
-- Player D - Mid - ?
-- Player E - Mid - ?
+- Player A - A Lurker - No Nades - ?
+- Player B - B Lurker - No Nades - ?
+- Player C - Mid - Smoke, Flash, Molly - ?
+- Player D - Mid - Smoke, Flash - ?
+- Player E - Mid - Flash, Smoke, Flash - ?
 
 ### Threats
 - mid push
