@@ -3,8 +3,8 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 
 ### Players
 - Player A - Smoke - Name
-- Player B - Smoke - Name
-- Player C - Flash - Name
+- Player B - Smoke + Flash - Name
+- Player C - Smoke + Flash - Name
 - Player D - No Nades - Name
 - Player E - No Nades - Name
 
@@ -25,9 +25,11 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 - Player E holds underpass against CT aggression at least until all smokes have been thrown
 - Player A [smokes short first arch](https://csnades.gg/mirage/smokes/right-arch-from-back-alley)
 - Player B [smokes short second arch](https://csnades.gg/mirage/smokes/left-arch-from-back-alley-b)
-- Player C waits for smokes and for other players to into position and [flashes site](https://csnades.gg/mirage/flashbangs/b-site-from-back-alley)
+- Player C [smokes kitchen window](https://csnades.gg/mirage/smokes/window-from-back-alley-b)
 
 ### Push onto site
+- Player A [flashes](https://csnades.gg/mirage/flashbangs/b-site-from-apts)
+- Player C [flashes site](https://csnades.gg/mirage/flashbangs/b-site-from-back-alley)
 - Players A, B go out balcony
 - Players D, E jump out window
 - Player C stay in app
