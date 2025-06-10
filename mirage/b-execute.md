@@ -12,11 +12,6 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 - Early CT utility
 - Bad post-plant positions
 
-### Nade Prio
-1. Flash
-2. Smoke
-3. Molly
-
 # Execution
 ### Round Start
 - Player A or B gets bomb
