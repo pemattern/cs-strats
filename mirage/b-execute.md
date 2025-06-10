@@ -4,7 +4,7 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 ### Players
 - Player A - Smoke - Name
 - Player B - Smoke + Flash - Name
-- Player C - Smoke + Flash - Name
+- Player C - Smoke, Flash, Molly - Name
 - Player D - No Nades - Name
 - Player E - No Nades - Name
 
@@ -32,5 +32,5 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 - Player C [flashes site](https://csnades.gg/mirage/flashbangs/b-site-from-back-alley)
 - Players A, B go out balcony
 - Players D, E jump out window
-- Player C stay in app
+- Player C stay in app, has molly for bomb
 - Bomb carrier plants for apps
