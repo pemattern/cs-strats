@@ -28,7 +28,7 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 - Player C [smokes kitchen window](https://csnades.gg/mirage/smokes/window-from-back-alley-b)
 
 ### Push onto site
-- Player A [flashes](https://csnades.gg/mirage/flashbangs/b-site-from-apts)
+- Player B [flashes](https://csnades.gg/mirage/flashbangs/b-site-from-apts)
 - Player C [flashes site](https://csnades.gg/mirage/flashbangs/b-site-from-back-alley)
 - Players A, B go out balcony
 - Players D, E jump out window
