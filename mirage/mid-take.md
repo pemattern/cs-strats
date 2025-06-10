@@ -42,5 +42,5 @@
 ### Variation - B Take
 - Player A rejoins team through t spawn or flanks
 - Player B [smokes kitchen window](https://csnades.gg/mirage/smokes/market-window-from-back-alley)
-- Player C [mollies ladder room](https://csnades.gg/mirage/molotovs/top-ladder-from-under-chair)
+- Player C [mollies ladder room](https://csnades.gg/mirage/molotovs/top-ladder-from-under-chair) or [mollies ladder room](https://www.youtube.com/shorts/92rTYlLyTPo)
 - Player D [flashes short](https://csnades.gg/mirage/flashbangs/b-short-from-catwalk)
