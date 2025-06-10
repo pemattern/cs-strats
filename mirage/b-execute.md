@@ -23,8 +23,8 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 - All players position before B apps and make no sound before executing
 - Player D is first in and holds against an apps push but doesn't show
 - Player E holds underpass against CT aggression at least until all smokes have been thrown
-- Player A [smokes short first arch](https://csnades.gg/mirage/smokes/right-arch-from-back-alley)
-- Player B [smokes short second arch](https://csnades.gg/mirage/smokes/left-arch-from-back-alley-b)
+- Player A [smokes short second arch](https://csnades.gg/mirage/smokes/left-arch-from-back-alley-b)
+- Player B [smokes short first arch](https://csnades.gg/mirage/smokes/right-arch-from-back-alley)
 - Player C [smokes kitchen window](https://csnades.gg/mirage/smokes/window-from-back-alley-b)
 
 ### Push onto site
