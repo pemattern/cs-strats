@@ -32,5 +32,5 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 - Player C [flashes site](https://csnades.gg/mirage/flashbangs/b-site-from-back-alley)
 - Players A, B go out balcony
 - Players D, E jump out window
-- Player C stay in app, has [molly for post-plant](https://youtu.be/NzQK7KxIkRo?t=192)
+- Player C stay in app, has [molly for post-plant](https://youtu.be/NzQK7KxIkRo?t=200)
 - Bomb carrier plants for apps
