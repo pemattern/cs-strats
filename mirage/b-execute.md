@@ -3,7 +3,7 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 
 ### Players
 - Player A - Smoke - Name
-- Player B - Smoke + Flash - Name
+- Player B - Smoke, Flash - Name
 - Player C - Smoke, Flash, Molly - Name
 - Player D - No Nades - Name
 - Player E - No Nades - Name
