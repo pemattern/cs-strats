@@ -22,7 +22,7 @@ Execute onto B Bombite. Isolate site with smokes and flash for entry. Useful for
 - Player A or B gets bomb
 - All players position before B apps and make no sound before executing
 - Player D is first in and holds against an apps push but doesn't show
-- Player E holds underpass against CT aggression, if none are spotted, join Player D
+- Player E holds underpass against CT aggression at least until all smokes have been thrown
 - Player A [smokes short first arch](https://csnades.gg/mirage/smokes/right-arch-from-back-alley)
 - Player B [smokes short second arch](https://csnades.gg/mirage/smokes/left-arch-from-back-alley-b)
 - Player C waits for smokes and for other players to into position and [flashes site](https://csnades.gg/mirage/flashbangs/b-site-from-back-alley)
