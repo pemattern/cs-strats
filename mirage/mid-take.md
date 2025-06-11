@@ -14,13 +14,6 @@
 - short push
 - underpass push
 
-### Nade Prio
-1. Smoke
-2. Flash
-3. Flash
-4. Molly
-5. HE
-
 # Execution
 ### Round Start
 - Player A lurks around A ramp or palace or simply watches for flanks from t spawn
