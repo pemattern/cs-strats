@@ -2,11 +2,11 @@
 Standard A Execute
 
 ### Players
-- Player A - Position - Name
-- Player B - Position - Name
-- Player C - Position - Name
-- Player D - Position - Name
-- Player E - Position - Name
+- Player A - Palace - Nades
+- Player B - Palace - Nades
+- Player C - Ramp - Nades
+- Player D - Ramp - Nades
+- Player E - Ramp - Nades
 
 ### Threats
 - ...
