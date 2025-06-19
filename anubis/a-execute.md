@@ -1,13 +1,12 @@
-
 ### Overview
-Rush B - No stop.
+Execute on A Site
 
 ### Players
-- Player A - Position - Nades
-- Player B - Position - Nades
-- Player C - Position - Nades
-- Player D - Position - Nades
-- Player E - Position - Nades
+- Player A - A Main - Nades
+- Player B - A Main - Nades
+- Player C - Mid - Nades
+- Player D - Mid - Nades
+- Player E - Mid - Nades
 
 ### Threats
 - ...
